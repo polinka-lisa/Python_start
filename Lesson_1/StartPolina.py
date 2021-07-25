@@ -13,7 +13,7 @@ S = width * length
 print(S)
 
 a = input()
-print(a + ", привет!")
+print(a + ", [хеллоу!")
 
 
 
